@@ -1,0 +1,12 @@
+banana: 2
+monkey: 2
+paper: 2
+towel: 1
+ape: 1
+coffee: 2
+tree: 2
+animal: 1
+vase: 1
+crab: 1
+flower: 3
+cup: 1
